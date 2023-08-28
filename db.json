@@ -1,0 +1,189 @@
+{
+
+  "events": [
+
+    {
+
+      "event_name": "Yoga Class",
+
+      "start_date": "2023-09-01",
+
+      "end_date": "2023-09-01",
+
+      "start_time": "09:00 AM",
+
+      "end_time": "10:00 AM",
+
+      "location": "Central Park",
+
+      "facilitator": "John Doe"
+
+    },
+
+    {
+
+      "event_name": "Coding Workshop",
+
+      "start_date": "2023-09-10",
+
+      "end_date": "2023-09-10",
+
+      "start_time": "02:00 PM",
+
+      "end_time": "04:00 PM",
+
+      "location": "Tech Center",
+
+      "facilitator": "Jane Smith"
+
+    },
+
+    {
+
+      "event_name": "Cooking Class",
+
+      "start_date": "2023-09-15",
+
+      "end_date": "2023-09-15",
+
+      "start_time": "11:00 AM",
+
+      "end_time": "01:00 PM",
+
+      "location": "Community Center",
+
+      "facilitator": "Chef Amy"
+
+    },
+
+    {
+
+      "event_name": "Book Reading",
+
+      "start_date": "2023-09-20",
+
+      "end_date": "2023-09-20",
+
+      "start_time": "03:00 PM",
+
+      "end_time": "05:00 PM",
+
+      "location": "Local Library",
+
+      "facilitator": "Author Brian"
+
+    },
+
+    {
+
+      "event_name": "Art Exhibition",
+
+      "start_date": "2023-09-25",
+
+      "end_date": "2023-09-30",
+
+      "start_time": "10:00 AM",
+
+      "end_time": "06:00 PM",
+
+      "location": "Art Gallery",
+
+      "facilitator": "Curator Emily"
+
+    },
+
+    {
+
+      "event_name": "Dance Workshop",
+
+      "start_date": "2023-10-05",
+
+      "end_date": "2023-10-05",
+
+      "start_time": "06:00 PM",
+
+      "end_time": "08:00 PM",
+
+      "location": "Dance Studio",
+
+      "facilitator": "Dancer Chloe"
+
+    },
+
+    {
+
+      "event_name": "Gardening Seminar",
+
+      "start_date": "2023-10-10",
+
+      "end_date": "2023-10-10",
+
+      "start_time": "09:00 AM",
+
+      "end_time": "11:00 AM",
+
+      "location": "Botanical Garden",
+
+      "facilitator": "Horticulturist David"
+
+    },
+
+    {
+
+      "event_name": "Music Concert",
+
+      "start_date": "2023-10-15",
+
+      "end_date": "2023-10-15",
+
+      "start_time": "07:00 PM",
+
+      "end_time": "10:00 PM",
+
+      "location": "Music Hall",
+
+      "facilitator": "Conductor Sarah"
+
+    },
+
+    {
+
+      "event_name": "Photography Course",
+
+      "start_date": "2023-10-20",
+
+      "end_date": "2023-10-20",
+
+      "start_time": "02:00 PM",
+
+      "end_time": "04:00 PM",
+
+      "location": "Photography Studio",
+
+      "facilitator": "Photographer Jack"
+
+    },
+
+    {
+
+      "event_name": "Financial Literacy Talk",
+
+      "start_date": "2023-10-25",
+
+      "end_date": "2023-10-25",
+
+      "start_time": "05:00 PM",
+
+      "end_time": "07:00 PM",
+
+      "location": "Business Center",
+
+      "facilitator": "Financial Advisor Lisa"
+
+    }
+
+  ]
+
+}
+
+has context menu
